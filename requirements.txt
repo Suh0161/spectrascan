@@ -1,0 +1,20 @@
+# Core dependencies
+requests>=2.31.0
+
+# Dynamic capture
+playwright>=1.40.0
+
+# Source map support
+sourcemap>=0.1.5
+
+# HTML parsing for code extraction
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# OpenAPI YAML output (optional)
+pyyaml>=6.0
+
+# Development dependencies (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
